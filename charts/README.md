@@ -8,3 +8,4 @@ A nonexhaustive overview of the charts:
 
 * [drone](drone/README.md) - Drone server
 * [drone-runner-docker](drone-runner-docker/README.md) - The Docker runner for Drone
+* [drone-vault-secrets](drone-vault-secrets/README.md) - Drone Vault Secrets Plugin
